@@ -18,7 +18,7 @@ This is our greenhouse controller with Raspberry Pi Pico W and micropython under
 - DIN rail housing
 
 ### Images
-Images in the image directory:
+Images in the images directory:
 
 greenhouse.jpg     - greenhouse <br>
 webapp.png         - web frontend <br>
