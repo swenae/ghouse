@@ -16,8 +16,8 @@ It works with several hardware as in the parts list underneath.
 - 3-LED board
 - transistors, several resistors
 - power supply 5V, 12V (DIN rail)
-- Sicherungsautomat (DIN rail)
-- diverse Leergehäuse (DIN rail)
+- 10 Amp automatic fuse (DIN rail)
+- several empty DIN rail cases
 - PCB, installation material, several cables 
 - DIN rail housing
 
