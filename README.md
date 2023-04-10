@@ -18,7 +18,7 @@ It works with several hardware as in the parts list underneath.
 - power supply 5V, 12V (DIN rail)
 - Sicherungsautomat (DIN rail)
 - diverse Leergehäuse (DIN rail)
-- several cables, installation material 
+- PCB, installation material, several cables 
 - DIN rail housing
 
 ### Images
