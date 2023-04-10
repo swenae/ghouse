@@ -1,6 +1,10 @@
-# ghouse
+# Greenhouse Controller
 
-This is our greenhouse controller with Raspberry Pi Pico W and micropython under use of several hardware.
+This is our greenhouse controller with Raspberry Pi Pico W and micropython.
+
+### Explanation
+"gw2_pico.py" is the main control script. Please rename to "main.py" and upload it on your Pico W with micropython firmware.
+It works with several hardware as in the parts list underneath.
 
 ### Parts list
 
