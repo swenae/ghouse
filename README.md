@@ -11,7 +11,7 @@ It works with several hardware as in the parts list underneath.
 - Raspberry Pi Pico W
 - LCD panel with I2C controller
 - DS1307 RTC with EEPROM AT24C32N
-- DS18B20 temperature sensor
+- 2 DS18B20 temperature sensor
 - 6-relay module
 - 3-LED board
 - transistors, several resistors
