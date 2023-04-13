@@ -12,6 +12,7 @@ It works with several hardware as in the parts list underneath.
 - LCD panel with I2C controller
 - DS1307 RTC with EEPROM AT24C32N
 - 2 DS18B20 temperature sensor
+- 2 window regulator 12V
 - 6-relay module
 - 3-LED board
 - transistors, several resistors
